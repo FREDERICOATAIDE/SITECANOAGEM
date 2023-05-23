@@ -75,7 +75,7 @@ p{
 .header {
     background-color: aliceblue;
     padding: 20px;
-    color: #035efc;
+    color: cornflowerblue;
     text-align: center;
     border-radius: 20px;
 }
@@ -101,4 +101,10 @@ p{
     max-width: 100%;
     height: auto;
     margin: 10px;
+}
+
+.section{
+    background-color: aliceblue;
+    border-radius: 30px;
+    align-items: center;
 }
