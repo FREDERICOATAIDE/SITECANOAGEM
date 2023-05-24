@@ -75,7 +75,7 @@ p{
 .header {
     background-color: aliceblue;
     padding: 20px;
-    color: cornflowerblue;
+    color: #035efc;
     text-align: center;
     border-radius: 20px;
 }
@@ -85,7 +85,7 @@ p{
     vertical-align: middle;
 }
 
-.logo img {
+.logo-img {
     height: 80px;
     width: auto;
 }
@@ -97,14 +97,99 @@ p{
     margin-top: 20px;
 }
 
-.image-container img {
+.image-container-img {
     max-width: 100%;
     height: auto;
     margin: 10px;
 }
 
-.section{
-    background-color: aliceblue;
-    border-radius: 30px;
-    align-items: center;
-}
+.JO {
+    text-align: left;
+  }
+  
+  .PP{
+    text-align: center;
+  }
+  
+  .diva{
+    left: 10px;
+  }
+
+  .divo{
+    left: 10px;
+  }
+
+  .pudlle{
+    text-align: center;
+    text-align: justify;
+  }
+
+  .querodormir{
+    text-align: center;
+  }
+  
+  .h3rdeiro {
+    text-align: left;
+  }
+
+  .pag1 {
+    text-align: center;
+  }
+
+  .pag2 {
+    text-align: center;
+  }
+
+  .pag3 {
+    text-align: center;
+  }
+
+  .lol {
+    text-align: justify;
+  }
+
+  .pag4 {
+    text-align: center;
+     width: 560px;
+    height: 315px;  
+  }
+
+  .skip {
+    text-align: center;
+  }
+   .skip2 {
+    text-align: center;
+    width: 40%;
+   } 
+
+  .mantive {
+   text-align: center;
+  }
+
+  .mantive2 {
+    width: 3%;
+  }
+
+  .stilo {
+    text-align: center;
+  }
+
+  .pag5 {
+    text-align: center;
+  }
+
+  .lastpag {
+    text-align: center;
+  }
+
+  .lastpag2 {
+    width: 3%;
+  }
+
+  .lastpag3 {
+    text-align: center;
+  }
+
+  .lastpag4 {
+    text-align: center;
+  }
