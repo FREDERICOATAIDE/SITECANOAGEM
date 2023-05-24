@@ -20,7 +20,7 @@ p{
     height: 50px;
     left: 1850px;
     background-color: gainsboro;
-    background-image: url(kisspng-youtube-logo-clip-art-logo-youtube-png-5b509f3852b108.1652839715320102963387-removebg-preview.png);
+    background-image: url(IMAGENS/kisspng-youtube-logo-clip-art-logo-youtube-png-5b509f3852b108.1652839715320102963387-removebg-preview.png);
     background-size: cover;
     background-position: center;
     border: none;
@@ -34,7 +34,7 @@ p{
     height: 50px;
     left: 1790px;
     background-color:#035efc;
-    background-image: url(twitter_logo_whiteonimage.png);
+    background-image: url(IMAGENS/twitter_logo_whiteonimage.png);
     background-size: cover;
     background-position: center;
     border: none;
@@ -47,7 +47,7 @@ p{
     height: 50px;
     left: 1730px;
     background-color: green;
-    background-image: url("logo-whatsapp-png_optimized.png");
+    background-image: url("IMAGENS/logo-whatsapp-png_optimized.png");
     background-size: cover;
     background-position: center;
     border: none;
@@ -183,7 +183,7 @@ p{
   }
 
   .lastpag2 {
-    width: 3%;
+    
   }
 
   .lastpag3 {
